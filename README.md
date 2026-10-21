@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- TODO: 替换为组织 Logo -->
-<img src="./logo-hb-black.png" alt="GHH Work Logo" width="160" />
-
-# GHH Work
+<img src="./logo-hb-black.png" alt="GHH Work Logo" width="240" />
 
 **用 AI 驱动的软件开发团队**
 
